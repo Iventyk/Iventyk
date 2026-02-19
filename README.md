@@ -51,10 +51,15 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iventyk&layout=compact&show_icons=true&theme=tokyonight&count_private=true" width="243.5"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iventyk&show_icons=true&theme=tokyonight&count_private=true" width="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iventyk&theme=tokyonight" width="300"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iventyk&layout=compact&show_icons=true&theme=tokyonight&count_private=true" width="277"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iventyk&show_icons=true&theme=tokyonight&count_private=true" width="341"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iventyk&theme=tokyonight" width="341"/>
 </p>
+
+
+<h3 align="center">My Projects & Technologies</h3>
+
+<p align="center">
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
@@ -63,6 +68,8 @@
 | [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | [![fastapi-online-cinema](https://img.shields.io/static/v1?label=&message=fastapi-online-cinema&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/Iventyk/fastapi-online-cinema) |
 | [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/) | [![frisson-music](https://img.shields.io/static/v1?label=&message=frisson-music&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/Iventyk/frisson-music) [![DRF-Library-Service-Project](https://img.shields.io/static/v1?label=&message=DRF-Library-Service-Project&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/VadymVynokur/DRF-Library-Service-Project) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
+</p>
 
 [//]: # (Commented table options)
 
