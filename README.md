@@ -51,9 +51,9 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iventyk&layout=compact&show_icons=true&theme=tokyonight&count_private=true" width="277"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iventyk&show_icons=true&theme=tokyonight&count_private=true" width="341"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iventyk&theme=tokyonight" width="341"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iventyk&layout=compact&show_icons=true&theme=tokyonight&count_private=true" width="239.4"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iventyk&show_icons=true&theme=tokyonight&count_private=true" width="295"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iventyk&theme=tokyonight" width="295"/>
 </p>
 
 
