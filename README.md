@@ -3,77 +3,57 @@
   Python Backend Developer
 </h3>
 
+
 <p align="center">
   <a href="https://wakatime.com/@ddd893b9-21da-4cb4-9172-465025e48d6b">
     <img src="https://wakatime.com/badge/user/ddd893b9-21da-4cb4-9172-465025e48d6b.svg" alt="wakatime">
   </a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Iventyk.Iventyk" alt="Visitor Count">
-  <img src="https://img.shields.io/badge/Profile%20Views-Iventyk-blue?style=for-the-badge" alt="Profile Views">
+  <a href="https://komarev.com/ghpvc/?username=Iventyk">
+    <img src="https://komarev.com/ghpvc/?username=Iventyk&color=blue&style=flat" alt="ProfileViews">
+  </a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/ddd893b9-21da-4cb4-9172-465025e48d6b.svg)](https://wakatime.com/@ddd893b9-21da-4cb4-9172-465025e48d6b)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Iventyk.Iventyk)
-![Profile Views](https://img.shields.io/badge/Profile%20Views-Iventyk-blue?style=for-the-badge)
-[![ProfileViews](https://komarev.com/ghpvc/?username=Iventyk&color=blue&style=flat)](https://komarev.com/ghpvc/?username=Iventyk)
 
 <h3 align="center">Languages & Technologies</h3>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 720px;">
-
-  <style>
-    .tech-icon {
-      height: 40px;
-      width: auto;
-      transition: transform 0.2s, filter 0.2s;
-    }
-    .tech-icon:hover {
-      transform: scale(1.2);
-      filter: brightness(1.2);
-    }
-  </style>
-
+<p align="center">
   <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" class="tech-icon" title="Python"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" class="tech-icon" title="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" class="tech-icon" title="FastAPI"/>
-
-  <!-- Databases & Caching -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" class="tech-icon" title="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" class="tech-icon" title="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" class="tech-icon" title="Redis"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" class="tech-icon" title="SQLAlchemy"/>
-
-  <!-- DevOps & Containers -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" class="tech-icon" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" class="tech-icon" title="AWS"/>
-
-  <!-- Version Control & CI/CD -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" class="tech-icon" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" class="tech-icon" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" class="tech-icon" title="GitHub Actions"/>
-
-  <!-- Testing & API Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" class="tech-icon" title="Pytest"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" class="tech-icon" title="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" class="tech-icon" title="Swagger"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/celery.svg" class="tech-icon" title="Celery"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI"/>&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" title="Django"/>&nbsp;&nbsp;
+  <!-- Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" title="Redis"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40" title="SQLAlchemy"/>&nbsp;&nbsp;
+  <!-- DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>&nbsp;&nbsp;
+  <!-- Version Control -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" title="GitHub Actions"/>&nbsp;&nbsp;
+  <!-- Testing / API -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40" height="40" title="Pytest"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40" height="40" title="Swagger"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/celery.svg" width="40" height="40" title="Celery"/>&nbsp;&nbsp;
   <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" class="tech-icon" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" class="tech-icon" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" class="tech-icon" title="CSS3"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>&nbsp;&nbsp;
   <!-- Other Tools -->
-  <img src="https://cdn.simpleicons.org/stripe" class="tech-icon" title="Stripe"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/poetry/poetry-original.svg" class="tech-icon" title="Poetry"/>
-</div>
+  <img src="https://cdn.simpleicons.org/stripe" width="40" height="40" title="Stripe"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/poetry/poetry-original.svg" width="40" height="40" title="Poetry"/>
+</p>
+
 
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iventyk&layout=compact&show_icons=true&theme=tokyonight&count_private=true" width="203"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iventyk&show_icons=true&theme=tokyonight&count_private=true" width="250"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iventyk&theme=tokyonight" width="250"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iventyk&layout=compact&show_icons=true&theme=tokyonight&count_private=true" width="243.5"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iventyk&show_icons=true&theme=tokyonight&count_private=true" width="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iventyk&theme=tokyonight" width="300"/>
 </p>
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
