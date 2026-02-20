@@ -39,6 +39,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40" height="40" title="Swagger"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/celery.svg" width="40" height="40" title="Celery"/>&nbsp;&nbsp;
   <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Python"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/>&nbsp;&nbsp;
