@@ -1,3 +1,12 @@
+<div style="
+  border: 1px solid; 
+  border-image-slice: 1; 
+  border-image-source: linear-gradient(135deg, #6C00FF, #00FF91, #9B00FF);
+  border-radius: 12px; 
+  padding: 15px;
+">
+
+
 <h3 align="center">
   Hi, I'm Ivan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"><br/>
   Python Developer
@@ -10,6 +19,9 @@
   </a>
   <a href="https://komarev.com/ghpvc/?username=Iventyk">
     <img src="https://komarev.com/ghpvc/?username=Iventyk&color=blue&style=flat" alt="ProfileViews">
+  </a>
+  <a href="https://github.com/vshymanskyy/StandWithUkraine/">
+    <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg" alt="StandWithUkraine">
   </a>
 </p>
 
@@ -25,19 +37,43 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" title="Redis"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40" title="SQLAlchemy"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg#gh-light-mode-only"
+     width="40"
+     height="40"
+     title="SQLAlchemy"/>&nbsp;&nbsp;  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg#gh-dark-mode-only"
+     width="40"
+     height="40"
+     title="SQLAlchemy"
+     style="filter: invert(1);"/>&nbsp;&nbsp;  
   <!-- DevOps -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" title="AWS"/>&nbsp;&nbsp;
   <!-- Version Control -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg#gh-light-mode-only"
+     width="40"
+     height="40"
+     title="GitHub"/>&nbsp;&nbsp;  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg#gh-dark-mode-only"
+     width="40"
+     height="40"
+     title="GitHub"
+     style="filter: invert(1);"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" title="GitHub Actions"/>&nbsp;&nbsp;
   <!-- Testing / API -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40" height="40" title="Pytest"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" title="Postman"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40" height="40" title="Swagger"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/celery.svg" width="40" height="40" title="Celery"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/celery.svg#gh-light-mode-only"
+     width="40"
+     height="40"
+     title="Celery" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/celery.svg#gh-dark-mode-only"
+     width="40"
+     height="40"
+     title="Celery"
+     style="filter: invert(1);" />&nbsp;&nbsp;
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>&nbsp;&nbsp;
@@ -63,14 +99,17 @@
 <p align="center">
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![frisson-music](https://img.shields.io/static/v1?label=&message=frisson-music&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/Iventyk/frisson-music) [![DRF-Library-Service-Project](https://img.shields.io/static/v1?label=&message=DRF-Library-Service-Project&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/VadymVynokur/DRF-Library-Service-Project) [![fastapi-online-cinema](https://img.shields.io/static/v1?label=&message=fastapi-online-cinema&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/Iventyk/fastapi-online-cinema) |
-| [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | [![fastapi-online-cinema](https://img.shields.io/static/v1?label=&message=fastapi-online-cinema&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/Iventyk/fastapi-online-cinema) |
-| [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/) | [![frisson-music](https://img.shields.io/static/v1?label=&message=frisson-music&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/Iventyk/frisson-music) [![DRF-Library-Service-Project](https://img.shields.io/static/v1?label=&message=DRF-Library-Service-Project&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/VadymVynokur/DRF-Library-Service-Project) |
+
+| 💻 **Technology**                                                                                                                               | 🚀 **Projects**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/)          | [![frisson-music](https://img.shields.io/static/v1?label=&message=frisson-music&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/Iventyk/frisson-music) [![DRF-Library-Service-Project](https://img.shields.io/static/v1?label=&message=DRF-Library-Service-Project&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/VadymVynokur/DRF-Library-Service-Project) [![fastapi-online-cinema](https://img.shields.io/static/v1?label=&message=fastapi-online-cinema&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/Iventyk/fastapi-online-cinema) |
+| [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | [![fastapi-online-cinema](https://img.shields.io/static/v1?label=&message=fastapi-online-cinema&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/Iventyk/fastapi-online-cinema)                                                                                                                                                                                                                                                                                                                                                                                            |
+| [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/)   | [![frisson-music](https://img.shields.io/static/v1?label=&message=frisson-music&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/Iventyk/frisson-music) [![DRF-Library-Service-Project](https://img.shields.io/static/v1?label=&message=DRF-Library-Service-Project&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/VadymVynokur/DRF-Library-Service-Project)                                                                                                                                                                                               |
+
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 </p>
+
 
 [//]: # (Commented table options)
 
