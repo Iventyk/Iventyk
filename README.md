@@ -1,5 +1,5 @@
 <div style="
-  border: 1px solid; 
+  border: 10px solid; 
   border-image-slice: 1; 
   border-image-source: linear-gradient(135deg, #6C00FF, #00FF91, #9B00FF);
   border-radius: 12px; 
@@ -40,12 +40,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg#gh-light-mode-only"
      width="40"
      height="40"
-     title="SQLAlchemy"/>&nbsp;&nbsp;  
+     title="SQLAlchemy"
+     style="filter: invert(1);"
+     />&nbsp;&nbsp;  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg#gh-dark-mode-only"
      width="40"
      height="40"
      title="SQLAlchemy"
-     style="filter: invert(1);"/>&nbsp;&nbsp;  
+     />&nbsp;&nbsp;  
   <!-- DevOps -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" title="AWS"/>&nbsp;&nbsp;
