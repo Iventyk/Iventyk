@@ -33,6 +33,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI"/>&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" title="Django"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain" width="40" height="40" title="LangChain"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/opencv" width="40" height="40" title="OpenCV"/>&nbsp;&nbsp;
   <!-- Databases -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite"/>
