@@ -36,6 +36,7 @@
 <img src="https://cdn.simpleicons.org/langchain" width="40" title="LangChain" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" title="OpenCV" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/docker/compose/main/logo.png" width="40" title="Docker Compose" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/github/white" width="40" title="GitHub" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions" />&nbsp;&nbsp;
