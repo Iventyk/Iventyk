@@ -34,6 +34,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" title="Angular" />&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=django" width="40" title="Django" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/flask" width="40" title="Flask" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/langchain" width="40" title="LangChain" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" title="OpenCV" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker" />&nbsp;&nbsp;
