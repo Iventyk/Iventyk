@@ -47,6 +47,8 @@
 <img src="https://skillicons.dev/icons?i=sqlite" width="40" title="SQLite" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" title="Redis" />
 
+<img src="https://cdn.simpleicons.org/claudecode" width="40" title="Claude Code" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/codex-color.svg" width="40" height="40" title="Codex"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5" />&nbsp;&nbsp;
