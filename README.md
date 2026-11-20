@@ -73,9 +73,9 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iventyk&layout=compact&theme=tokyonight&size_weight=0.3&count_weight=1&langs_count=6" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Iventyk&show_icons=true&theme=tokyonight" height="120"/>
-  <img src="https://streak-stats.demolab.com/?user=Iventyk&theme=tokyonight" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iventyk&layout=compact&theme=tokyonight&size_weight=0.3&count_weight=1&langs_count=6" height="125"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Iventyk&show_icons=true&theme=tokyonight" height="125"/>
+  <img src="https://streak-stats.demolab.com/?user=Iventyk&theme=tokyonight" height="125"/>
 </p>
 
 
