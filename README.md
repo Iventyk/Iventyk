@@ -6,15 +6,11 @@
   padding: 15px;
 ">
 
-
 <h3 align="center">
-  Hi, I'm Ivan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"><br/>
-</h3>
-
-<!-- Animated typing header -->
-<p align="center">
+  Hi, I'm Ivan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"><br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Computer+Vision+Engineer;Machine+Learning+Engineer;Python+Software+Engineer"/>
-</p>
+</h3>
 
 <p align="center">
   <a href="https://wakatime.com/@ddd893b9-21da-4cb4-9172-465025e48d6b">
