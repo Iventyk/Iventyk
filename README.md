@@ -9,9 +9,12 @@
 
 <h3 align="center">
   Hi, I'm Ivan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"><br/>
-  Python Developer
 </h3>
 
+<!-- Animated typing header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Computer+Vision+Engineer;Machine+Learning+Engineer;Python+Software+Engineer"/>
+</p>
 
 <p align="center">
   <a href="https://wakatime.com/@ddd893b9-21da-4cb4-9172-465025e48d6b">
@@ -43,7 +46,6 @@
 <img src="https://cdn.simpleicons.org/github/white" width="40" title="GitHub" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" title="GitHub Actions" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=sqlite" width="40" title="SQLite" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" title="Redis" />
 
@@ -55,14 +57,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/sqlalchemy" width="40" title="SQLAlchemy" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40" title="PowerShell" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40" title="Pytest"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/swagger" width="40" title="Swagger" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" title="Postman" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/celery" width="40" title="Celery" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/poetry/poetry-original.svg" width="40" title="Poetry" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" title="AWS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" width="40" title="AWS" />
+
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" title="WebSocket / Socket.IO" />&nbsp;&nbsp; -->
 
@@ -71,9 +73,9 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iventyk&layout=compact&show_icons=true&theme=tokyonight&count_private=true" width="239.4"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iventyk&show_icons=true&theme=tokyonight&count_private=true" width="295"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iventyk&theme=tokyonight" width="295"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iventyk&layout=compact&theme=tokyonight&size_weight=0.3&count_weight=1&langs_count=6" height="148"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Iventyk&show_icons=true&theme=tokyonight" height="148"/>
+  <img src="https://streak-stats.demolab.com/?user=Iventyk&theme=tokyonight" height="148"/>
 </p>
 
 
